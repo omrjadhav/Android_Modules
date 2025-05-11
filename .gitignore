@@ -1,0 +1,15 @@
+# Ignore common Android/Java build artifacts
+.gradle/
+.idea/
+.vscode/
+**/build/
+**/.gradle/
+*.iml
+
+# Ignore large binaries
+*.jar
+*.apk
+*.aar
+
+# Ignore caches
+**/caches/

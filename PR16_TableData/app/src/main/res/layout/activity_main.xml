@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:id="@+id/tableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow>
+        <TextView
+            android:text="Name"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="Age"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="Gender"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Shrirang"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="18"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="Male"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Sahil"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="17"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="Male"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Sayali"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="19"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="female"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Kunal"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="18"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="Male"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Kartik"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="17"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="Male"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+    </TableRow> <TableRow>
+    <TextView
+        android:text="omkar"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+    <TextView
+        android:text="60"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+    <TextView
+        android:text="Male"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+</TableRow> <TableRow>
+    <TextView
+        android:text="Sakshi"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+    <TextView
+        android:text="18"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+    <TextView
+        android:text="Female"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+</TableRow> <TableRow>
+    <TextView
+        android:text="Mayur"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+    <TextView
+        android:text="19"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+    <TextView
+        android:text="Male"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp" />
+</TableRow>
+    <TableRow>
+        <TextView
+            android:text="Rasika"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="18"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="female"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="Nikhil"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="19"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+        <TextView
+            android:text="Male"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp" />
+    </TableRow>
+
+
+
+</TableLayout>

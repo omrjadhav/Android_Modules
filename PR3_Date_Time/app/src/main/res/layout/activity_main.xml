@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TableLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow>
+        <EditText
+            android:layout_weight="1"
+            android:id="@+id/e1"/>
+        <Button
+            android:id="@+id/b1"
+            android:text="Select date"/>
+    </TableRow>
+
+    <TableRow>
+        <EditText
+            android:layout_weight="1"
+            android:id="@+id/e2"/>
+        <Button
+            android:id="@+id/b2"
+            android:text="Select Time"/>
+    </TableRow>
+</TableLayout>
